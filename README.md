@@ -1,2 +1,2 @@
 # yii-usermanager
-user management application built on Yii Framework
+Under development user management application built on Yii Framework,
